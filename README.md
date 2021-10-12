@@ -1,4 +1,6 @@
-### Hi there 👋
+### What am I?
+I'm a mainly Java programmer that makes stuff for Minecraft in his spare time.
+[![xxCoderforlife's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxCoderforlife&count_private=true&hide=stars,issues&theme=tokyonight)](https://github.com/xxCoderforlife)
 
 <!--
 **xxCoderforlife/xxCoderforlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
